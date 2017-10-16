@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+h3 { text-decoration: underline; font-weight: bold; text-align: center; }
+/* Table */
+.table-data tr th {
+    background-color: #333;
+    border: solid 1px #333;
+    color: #FFF;
+    text-align: left;
+}
+.table-data tr td {
+    border: solid 1px #CCCCCC;
+	border-left: none;
+    border-right: none;
+}
+
+.page-break  { display: block; page-break-after: always; }
+
